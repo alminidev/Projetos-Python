@@ -1,4 +1,6 @@
-# Projetos Python
+# Projetos em Python
+
+Estudos em Python Básico
 
 Quando digitei `print("Olá, Mundo!")` pela primeira vez, percebi que **Python** não seria apenas mais um idioma no meu repertório de programação; ela se tornaria uma parceira essencial na minha exploração do conhecimento. Com sua sintaxe intuitiva e um ecossistema de bibliotecas impressionante, Python me introduziu ao universo da tecnologia e estimulou meu raciocínio a ser mais ágil e criativo.
 
